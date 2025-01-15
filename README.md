@@ -4,7 +4,7 @@ LuiLuu=MWCM
 
 
 S.T.I.
-Kayy=Childhood(ORFKTP)
+=Childhood(ORFKTP)
 Excel Academy 
 MTA=Connection
 Pass-Curroption
