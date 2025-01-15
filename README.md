@@ -1,10 +1,8 @@
 Country=USA , "Stolen"(money)# TMBF
 Brandon 
 LuiLuu=MWCM
-Bone
-Franklin M
-Tamkea 
-Cynthia 
+
+
 S.T.I.
 Kayy=Childhood(ORFKTP)
 Excel Academy 
